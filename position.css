@@ -1,0 +1,30 @@
+.main{
+  border: solid 2px black;
+  height: 1000px;
+  width: 500px;
+  margin-left: 20%;
+  position: relative;
+}
+.box1{
+height: 100px;
+width: 100px;
+background-color: #0000ff;
+/* position: sticky; */
+/* left: 20px; */
+/* display: none; */
+/* top: 0; */
+
+}
+.box2{
+  height: 100px;
+width: 100px;
+background-color: teal;
+position: fixed;
+/* top: 0px; */
+}
+.box3{
+  height: 100px;
+width: 100px;
+background-color: pink;
+  
+}
